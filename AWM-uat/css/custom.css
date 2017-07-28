@@ -7,10 +7,48 @@
     text-align: center !important;
 }
 
-.accomplishments{
-    font-size:x-small;
+.accomplishments, .aboutStory{
+    font-size:small;
 }
 
+.col-sm-3 >p{
+    font-size:small !important;
+}
+
+.txtUnderline{
+    text-decoration:underline;
+}
+
+.AWM_Landing_Header {
+  border-bottom: 1px solid #eeeeee;
+}
+
+
+.blog-snippet-3:nth-child(even) {
+  background-color: #f4f4f4;
+}
+
+.giveBack_h1 {
+  margin-bottom: 16px !important;
+}
+.giveBack_h1 {
+  color: #333333 !important;
+}
+.giveBack_em {
+  color: #e74c3c !important;
+  font-weight: 600 !important;
+  font-style: normal !important;
+}
+
+.givingBack_highlight{
+  color: #3f8ef7 !important;
+  font-weight: 600 !important;
+  font-style: normal !important;
+}
+
+.reduce_fa_icon{
+    font-size: 15px !important;
+}
 /*
 .team-1-member >img{
     border-radius:80%;
